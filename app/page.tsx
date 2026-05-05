@@ -9,7 +9,7 @@ export default function Home() {
       <main className="flex-1 p-4 sm:p-6">
         <header className="flex justify-center items-center mb-6 sm:mb-8">
           <h1 className="text-2xl sm:text-3xl font-bold text-gray-800">
-            Agendamento Veicular - UIS
+            Agendamento Veicular - UIS3
           </h1>
         </header>
 
